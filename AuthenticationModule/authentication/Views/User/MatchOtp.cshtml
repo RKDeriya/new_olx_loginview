@@ -1,0 +1,106 @@
+﻿@*@{
+        Layout = null;
+    }
+
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+    <body>
+        <div>
+            <form id="matchotp" method="POST" action="/user/matchotp">
+                <label>enter otp</label> <input type="text" name="userotp" /><br />
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </body>
+    </html>*@
+
+@model authentication.Models.LoginUser
+@{
+    Layout = null;
+}
+<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+
+@using (Html.BeginForm("MatchOtp","User", FormMethod.Post, new { @class = "form-container" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+
+            @Html.LabelFor(model => model.LoginOtp, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LoginOtp, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LoginOtp, "", new { @class = "text-danger" }) <br />
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @*<input type="submit" value="Login" class="btn btn-default" />*@
+                <a><input type="submit" value="Verify Otp" id="myAsyncButtonMatch" class="btn btn-success"></a>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //$(".attachmentdiv").hide();
+        $(function () {
+            $('#myAsyncButtonMatch').click(function (event) {
+  
+                event.preventDefault();
+                var authmodel = {
+                    LoginOtp: $('#LoginOtp').val()
+                };
+                if (!authmodel) {
+                    alert("Please Enter Mobile Number");
+                    return ;
+                }
+
+                $.ajax({
+                    type: "POST",
+                    url: "/User/MatchOtp",
+                    data: JSON.stringify(authmodel),
+                    dataType: "json",
+                    contentType: 'application/json; charset=utf-8',
+                    success: function (data) {
+                    
+                        if (data == 1) {
+                            var url = window.location.href
+                            url = '/Home/Index';
+                            window.location.href = url;
+                        }
+                        else {
+                            alert("Invalid otp!!");
+                        }
+                        //var url = window.location.href
+                        //url = '/home/Project';
+                        //window.location.href = url;
+                    },
+                    error: function () {
+                        alert("Error occured!!")
+                    }
+                });
+            });
+        });
+    });
+</script>

@@ -1,0 +1,471 @@
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\authentication.dll.config
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\authentication.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\authentication.pdb
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\csc.exe
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\csc.exe.config
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\csc.rsp
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\csi.exe
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\csi.exe.config
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\csi.rsp
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.AppContext.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Console.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Net.Http.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\vbc.exe
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\vbc.exe.config
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\vbc.rsp
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Antlr3.Runtime.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Newtonsoft.Json.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Helpers.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Mvc.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Optimization.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Razor.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.WebPages.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.WebPages.Razor.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\WebGrease.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Helpers.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Mvc.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Optimization.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.Razor.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.WebPages.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Web.WebPages.Razor.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Newtonsoft.Json.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Antlr3.Runtime.pdb
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\obj\Debug\authentication.csproj.AssemblyReference.cache
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\obj\Debug\authentication.csproj.CoreCompileInputs.cache
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\obj\Debug\authentication.csproj.CopyComplete
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\obj\Debug\authentication.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\obj\Debug\authentication.pdb
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Twilio.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Twilio.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\ColorTranslations.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Enums.NET.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\jose-jwt.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Logging.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Options.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Buffers.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Collections.Immutable.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.IO.Abstractions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Memory.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Numerics.Vectors.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Security.Cryptography.Cng.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Text.Encodings.Web.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Text.Json.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.ValueTuple.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\TestableIO.System.IO.Abstractions.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Vonage.Common.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Vonage.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Enums.NET.pdb
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Enums.NET.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Logging.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Options.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Buffers.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Collections.Immutable.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.IO.Abstractions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Memory.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Numerics.Vectors.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Security.Cryptography.Cng.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Text.Encodings.Web.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Text.Json.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\System.ValueTuple.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\TestableIO.System.IO.Abstractions.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\rushi.rajwade\source\repos\authentication\authentication\bin\Vonage.xml
+D:\authetication\AuthenticationModule\authentication\bin\authentication.dll.config
+D:\authetication\AuthenticationModule\authentication\bin\authentication.dll
+D:\authetication\AuthenticationModule\authentication\bin\authentication.pdb
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\csc.exe
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\csc.exe.config
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\csc.rsp
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\csi.exe
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\csi.exe.config
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\csi.rsp
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.AppContext.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Collections.Immutable.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Console.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Globalization.Calendars.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.IO.Compression.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.IO.FileSystem.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Net.Http.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Net.Sockets.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Reflection.Metadata.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.ValueTuple.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Xml.XPath.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\vbc.exe
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\vbc.exe.config
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\vbc.rsp
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\VBCSCompiler.exe
+D:\authetication\AuthenticationModule\authentication\bin\roslyn\VBCSCompiler.exe.config
+D:\authetication\AuthenticationModule\authentication\bin\Antlr3.Runtime.dll
+D:\authetication\AuthenticationModule\authentication\bin\ColorTranslations.dll
+D:\authetication\AuthenticationModule\authentication\bin\Enums.NET.dll
+D:\authetication\AuthenticationModule\authentication\bin\jose-jwt.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Options.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Primitives.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.IdentityModel.Logging.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.IdentityModel.Tokens.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Net.Http.Headers.dll
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Web.Infrastructure.dll
+D:\authetication\AuthenticationModule\authentication\bin\Newtonsoft.Json.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Buffers.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Collections.Immutable.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.IO.Abstractions.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Memory.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Numerics.Vectors.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Security.Cryptography.Cng.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Text.Encodings.Web.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Text.Json.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Threading.Tasks.Extensions.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.ValueTuple.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Helpers.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Mvc.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Optimization.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Razor.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.WebPages.Deployment.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.WebPages.dll
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.WebPages.Razor.dll
+D:\authetication\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.dll
+D:\authetication\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\authetication\AuthenticationModule\authentication\bin\Twilio.dll
+D:\authetication\AuthenticationModule\authentication\bin\Vonage.Common.dll
+D:\authetication\AuthenticationModule\authentication\bin\Vonage.dll
+D:\authetication\AuthenticationModule\authentication\bin\WebGrease.dll
+D:\authetication\AuthenticationModule\authentication\bin\Yoh.Text.Json.NamingPolicies.dll
+D:\authetication\AuthenticationModule\authentication\bin\Enums.NET.pdb
+D:\authetication\AuthenticationModule\authentication\bin\Enums.NET.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Options.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Extensions.Primitives.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.IdentityModel.Tokens.xml
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.Net.Http.Headers.xml
+D:\authetication\AuthenticationModule\authentication\bin\Newtonsoft.Json.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Buffers.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Collections.Immutable.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.IO.Abstractions.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Memory.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Numerics.Vectors.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Security.Cryptography.Cng.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Text.Encodings.Web.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Text.Json.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Threading.Tasks.Extensions.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.ValueTuple.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Helpers.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Mvc.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Optimization.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.Razor.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.WebPages.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.WebPages.Deployment.xml
+D:\authetication\AuthenticationModule\authentication\bin\System.Web.WebPages.Razor.xml
+D:\authetication\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.xml
+D:\authetication\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.Wrappers.xml
+D:\authetication\AuthenticationModule\authentication\bin\Twilio.xml
+D:\authetication\AuthenticationModule\authentication\bin\Vonage.xml
+D:\authetication\AuthenticationModule\authentication\bin\Antlr3.Runtime.pdb
+D:\authetication\AuthenticationModule\authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\authetication\AuthenticationModule\authentication\obj\Debug\authentication.csproj.AssemblyReference.cache
+D:\authetication\AuthenticationModule\authentication\obj\Debug\authentication.csproj.CoreCompileInputs.cache
+D:\authetication\AuthenticationModule\authentication\obj\Debug\authentication.csproj.CopyComplete
+D:\authetication\AuthenticationModule\authentication\obj\Debug\authentication.dll
+D:\authetication\AuthenticationModule\authentication\obj\Debug\authentication.pdb
+D:\Rushi Project\AuthenticationModule\authentication\bin\authentication.dll.config
+D:\Rushi Project\AuthenticationModule\authentication\bin\authentication.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\authentication.pdb
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\csc.exe
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\csc.exe.config
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\csc.rsp
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\csi.exe
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\csi.exe.config
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\csi.rsp
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.AppContext.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Collections.Immutable.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Console.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Globalization.Calendars.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.IO.Compression.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.IO.FileSystem.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Net.Http.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Net.Sockets.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.ValueTuple.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Xml.XPath.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\vbc.exe
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\vbc.exe.config
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\vbc.rsp
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\VBCSCompiler.exe
+D:\Rushi Project\AuthenticationModule\authentication\bin\roslyn\VBCSCompiler.exe.config
+D:\Rushi Project\AuthenticationModule\authentication\bin\Antlr3.Runtime.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\ColorTranslations.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Enums.NET.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\jose-jwt.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Options.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Primitives.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.IdentityModel.Logging.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Net.Http.Headers.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Web.Infrastructure.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Newtonsoft.Json.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Buffers.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Collections.Immutable.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.IO.Abstractions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Memory.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Numerics.Vectors.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Security.Cryptography.Cng.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Text.Encodings.Web.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Text.Json.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Threading.Tasks.Extensions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.ValueTuple.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Helpers.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Mvc.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Optimization.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Razor.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.WebPages.Deployment.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.WebPages.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.WebPages.Razor.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Twilio.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Vonage.Common.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Vonage.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\WebGrease.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Yoh.Text.Json.NamingPolicies.dll
+D:\Rushi Project\AuthenticationModule\authentication\bin\Enums.NET.pdb
+D:\Rushi Project\AuthenticationModule\authentication\bin\Enums.NET.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Options.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Extensions.Primitives.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.Net.Http.Headers.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Newtonsoft.Json.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Buffers.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Collections.Immutable.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.IO.Abstractions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Memory.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Numerics.Vectors.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Security.Cryptography.Cng.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Text.Encodings.Web.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Text.Json.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Threading.Tasks.Extensions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.ValueTuple.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Helpers.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Mvc.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Optimization.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.Razor.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.WebPages.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.WebPages.Deployment.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\System.Web.WebPages.Razor.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\TestableIO.System.IO.Abstractions.Wrappers.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Twilio.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Vonage.xml
+D:\Rushi Project\AuthenticationModule\authentication\bin\Antlr3.Runtime.pdb
+D:\Rushi Project\AuthenticationModule\authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rushi Project\AuthenticationModule\authentication\obj\Debug\authentication.csproj.AssemblyReference.cache
+D:\Rushi Project\AuthenticationModule\authentication\obj\Debug\authentication.csproj.CoreCompileInputs.cache
+D:\Rushi Project\AuthenticationModule\authentication\obj\Debug\authentication.csproj.CopyComplete
+D:\Rushi Project\AuthenticationModule\authentication\obj\Debug\authentication.dll
+D:\Rushi Project\AuthenticationModule\authentication\obj\Debug\authentication.pdb
