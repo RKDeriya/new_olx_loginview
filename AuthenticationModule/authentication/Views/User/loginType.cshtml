@@ -1,8 +1,5 @@
-﻿@*@{
-        Layout = null;
-    }*@
+﻿
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
 
 @{
     ViewBag.Title = "Login";
@@ -22,7 +19,7 @@
                     @*<a href="@Url.Action("login","User")"><input type="button" value="Login With Email" id="myAsyncButton"></a><br /><br />*@
                     <a><input type="button" value="Login With Email" id="myAsyncButtonEmail"></a><br /><br />
               
-                <a href="@Url.Action("About","Home")"><input type="button" value="Sign Up"></a><br /><br />
+                <a href="@Url.Action("Registration","Home")"><input type="button" value="Sign Up"></a><br /><br />
 
                 @*<button type="submit" value="Signup" onsubmit="onclick1dfsd()">Sign Up</button>*@
                 @*<input type="submit" class="btn btn-danger" value="Reject" name="response" formaction="@Url.Action("LoginWithEmail")" />*@
@@ -68,36 +65,3 @@
                });
         });
 </script>
-
-
-
-@*<script>
-        $(document).ready(function () {
-            $("#myAsyncButtonNumber").click(function () {
-                $.ajax({
-                    url: '@Url.Action("sendotp", "User")', // Replace with the correct URL
-                    type: 'GET',
-                    success: function (result) {
-                        $("#Allview").html(result);
-                    },
-                    error: function () {
-                        alert("Error loading button view.");
-                    }
-                });
-            });
-        });
-</script>*@
-
-
-
-
-@*<script>
-        function loadDoc() {
-            const xhttp = new XMLHttpRequest();
-            xhttp.onload = function () {
-                document.getElementById("myAsyncButton").innerHTML = this.responseText;
-            }
-            xhttp.open("GET", "login.cshtml", true);
-            xhttp.send();
-        }
-    </script>*@
